@@ -1,5 +1,3 @@
-# ⚡〃EletrixOS Organisation  
-
 ## Hi there 👋  
 Welcome to the **EletrixOS Organisation**! 🚀  
 
@@ -10,3 +8,5 @@ We are developing **EletrixOS**, a modern, lightweight, and customizable operati
 - 🔧 **Open-Source Software** – Creating tools and utilities for better system management.  
 - 🤝 **Community-Driven** – Contributions and ideas are always welcome!  
 
+
+**EletrixOS is a sub-project of [Crypt](https://crypt.eletrix.fr)
