@@ -9,4 +9,4 @@ We are developing **EletrixOS**, a modern, lightweight, and customizable operati
 - 🤝 **Community-Driven** – Contributions and ideas are always welcome!  
 
 
-**EletrixOS is a sub-project of [Crypt](https://crypt.eletrix.fr)
+**EletrixOS is a sub-project of [Crypt](https://crypt.eletrix.fr)**
